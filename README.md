@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jenuzwaraj
 - 👀 I’m interested in Embedded systems
-- 🌱 I’m currently learning webservers
-- 📫 How to reach me (ig:enuzwaraj)
+- 🌱 I’m currently learning linux
+- 📫 How to reach me (ig:jenuzwaraj)
 
 
 <!---
